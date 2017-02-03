@@ -1,0 +1,21 @@
+.post-date{
+    background:#f4f4f4;
+    padding: 4px 0;
+    margin: 3px;
+    display: block;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.btn.btn-danger[value="Delete"]{margin-left: 10px;}
+
+.post_thumb{
+    width:100%;
+}
+
+.post-date {
+    margin: 0;
+    padding: 10px;
+}
